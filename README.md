@@ -7,7 +7,7 @@ SPADE, a reference-based approach, harnesses the power of single-cell RNA sequen
 
 ### Dependencies
 - R version >= 4.0.0.
-- R packages: Biobase, caret, glmnet, tidyverse, NOISeq, EBImage
+- R packages: Biobase, rlist, caret, glmnet, tidyverse, NOISeq, EBImage
 
 ```{r}
 # install devtools if necessary
